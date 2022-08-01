@@ -1,4 +1,4 @@
-# first_project
+# assignment 1
 
 A new Flutter project.
 
